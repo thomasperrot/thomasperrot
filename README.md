@@ -12,6 +12,9 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 <a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/linkedin.png" width="30%">
 </a>
+<a href="mailto:thomas.perrot1@gmail.com">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/email.png" width="30%">
+</a>
 
 ## Summary of my skills
 
@@ -39,6 +42,4 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 
 ### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.png" width="1%" height="1%"> Other <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.png" width="1%" height="1%">
 
-* **Graphics**: gimp (I used it to create the laurel icons, and the awesome banner above)
-
-<img src="./assets/banner_gold.jpg">
+* **Graphics**: gimp (I used it to create all visuals on this page)
