@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.png" width="2%"> <b>Thomas PERROT</b> <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.png" width="2%"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="2%"> <b>Thomas PERROT</b> <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="2%"></h1>
 <h3 align="center">French Software Engineer 🇫🇷 | Sport Enthusiast | Amateur Hacker</h3>
 
 I am a French Software Engineer working as a fullstack developer at [Dataiku](https://www.dataiku.com/). I spend my free time doing hacking, skiing, and mountain biking.
@@ -7,18 +7,18 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 ## Contact
 
 <a href="https://www.root-me.org/Iroh">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/root-me.png" width="30%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="30%">
 </a>
 <a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/linkedin.png" width="30%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="30%">
 </a>
 <a href="mailto:thomas.perrot1@gmail.com">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/email.png" width="30%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-email.svg" width="30%">
 </a>
 
 ## Summary of my skills
 
-### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.png" width="1%" height="1%"> Fullstack Developper @ [Dataiku](https://www.dataiku.com/) <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.png" width="1%" height="1%">
+### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="1%" height="1%"> Fullstack Developper @ [Dataiku](https://www.dataiku.com/) <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="1%" height="1%">
 
 * **Frontend**: VueJS, Vuex
 * **Backend**: Django, Flask
@@ -28,7 +28,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 * **Cloud**: GCP (Associate Cloud Engineer certified), AWS
 * **System**: Linux, MacOS
 
-### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.png" width="1%" height="1%"> Hacking <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.png" width="1%" height="1%">
+### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="1%" height="1%"> Hacking <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="1%" height="1%">
 
 * [My Root Me profile](https://www.root-me.org/Iroh) (top 30)
 * **Web attacks**: Burp Suite, sqlmap, nikto, dirbuster
@@ -40,6 +40,8 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 * **Misc**: Metasploit, nmap, hashcat
 * **Languages**: Python, Javascript, C, assembly (x86, x86_64, ARM)
 
-### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.png" width="1%" height="1%"> Other <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.png" width="1%" height="1%">
+### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="1%" height="1%"> Other <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="1%" height="1%">
 
 * **Graphics**: gimp (I used it to create all visuals on this page)
+
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.jpg">
