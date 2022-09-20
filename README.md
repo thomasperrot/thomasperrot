@@ -9,9 +9,15 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 <a href="https://www.root-me.org/Iroh">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="30%">
 </a>
+
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="5%">
+
 <a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="30%">
 </a>
+
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="5%">
+
 <a href="mailto:thomas.perrot1@gmail.com">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-email.svg" width="30%">
 </a>
