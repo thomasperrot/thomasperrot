@@ -7,7 +7,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 ## Contact
 
 <a href="https://www.root-me.org/Iroh">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="20%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="25%">
 </a>
 
 <a href="https://github.com/thomasperrot">
@@ -15,7 +15,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 </a>
 
 <a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="20%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="25%">
 </a>
 
 <a href="https://github.com/thomasperrot">
@@ -23,7 +23,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 </a>
 
 <a href="mailto:thomas.perrot1@gmail.com">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-email.svg" width="20%">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-email.svg" width="25%">
 </a>
 
 ## Summary of my skills
@@ -54,4 +54,4 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 
 * **Graphics**: gimp, inkscape (I used it to create all visuals on this page)
 
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.jpg">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.svg">
