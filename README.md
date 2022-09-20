@@ -10,16 +10,16 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="30%">
 </a>
 
-<a href="https://www.root-me.org/Iroh">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="4%">
+<a href="">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="5%">
 </a>
 
 <a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="30%">
 </a>
 
-<a href="https://www.root-me.org/Iroh">
-<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="4%">
+<a href="">
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="5%">
 </a>
 
 <a href="mailto:thomas.perrot1@gmail.com">
