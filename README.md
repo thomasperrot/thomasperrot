@@ -10,7 +10,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="30%">
 </a>
 
-<a href="">
+<a href="https://github.com/thomasperrot">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="4%">
 </a>
 
@@ -18,7 +18,7 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="30%">
 </a>
 
-<a href="">
+<a href="https://github.com/thomasperrot">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="4%">
 </a>
 
@@ -52,6 +52,6 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 
 ### <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="1%" height="1%"> Other <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="1%" height="1%">
 
-* **Graphics**: gimp (I used it to create all visuals on this page)
+* **Graphics**: gimp, inkscape (I used it to create all visuals on this page)
 
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.jpg">
