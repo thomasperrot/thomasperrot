@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.svg">
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="10px"> <b>Thomas PERROT</b> <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="10px"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="15px"> <b>Thomas PERROT</b> <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="15px"></h1>
 <h3 align="center">French Software Engineer 🇫🇷 | Sport Enthusiast | Amateur Hacker</h3>
 
 I am a French Software Engineer working as a fullstack developer at [Dataiku](https://www.dataiku.com/). I spend my free time doing hacking, skiing, and mountain biking.
