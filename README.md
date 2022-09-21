@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/banner_greek.svg">
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-left.svg" width="10px"> <b>Thomas PERROT</b> <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/laurel-right.svg" width="10px"></h1>
 <h3 align="center">French Software Engineer 🇫🇷 | Sport Enthusiast | Amateur Hacker</h3>
