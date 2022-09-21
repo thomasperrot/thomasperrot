@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="966.96852"
-     inkscape:cy="133.99673"
+     inkscape:cx="69.296463"
+     inkscape:cy="197.63634"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g64021">
     <inkscape:grid
        type="xygrid"
        id="grid60702"
@@ -774,15 +774,16 @@
              id="path49650"
              sodipodi:nodetypes="ccccc" />
           <path
-             style="display:inline;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1.48947;stroke-dasharray:none;stroke-opacity:1"
-             d="m 32.54375,64.29375 v 7.14375 l 0.79375,-6.35 6.35,-0.79375 z"
-             id="path49654"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.48947;stroke-dasharray:none;stroke-opacity:1"
+             d="m 32.652099,64.343303 v 7.14375 l 0.79375,-6.35 6.35,-0.79375 z"
+             id="path691"
              sodipodi:nodetypes="ccccc" />
         </g>
         <g
            id="g49748"
            inkscape:label="motif"
-           transform="translate(-191.69553,6.5994034)">
+           transform="translate(-191.69553,6.5994034)"
+           style="display:inline">
           <path
              style="fill:#866200;fill-opacity:1;stroke:none;stroke-width:0.661988;stroke-dasharray:none;stroke-opacity:1"
              d="m 17.197917,48.947917 35.718749,-10e-7 V 47.624999 H 15.875 Z"
