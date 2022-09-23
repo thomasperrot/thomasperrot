@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1541"
    inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
-   sodipodi:docname="banner_greek.svg"
+   sodipodi:docname="banner_greek_gold.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="69.296463"
-     inkscape:cy="197.63634"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="1680"
+     inkscape:cy="-69.999998"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g64021">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid60702"
@@ -42,6 +42,30 @@
   </sodipodi:namedview>
   <defs
      id="defs1538">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient147688">
+      <stop
+         style="stop-color:#f5be39;stop-opacity:1;"
+         offset="0"
+         id="stop147684" />
+      <stop
+         style="stop-color:#ffd699;stop-opacity:1;"
+         offset="0.50488383"
+         id="stop148432" />
+      <stop
+         style="stop-color:#9a5f00;stop-opacity:1;"
+         offset="0.63596886"
+         id="stop148430" />
+      <stop
+         style="stop-color:#cfa344;stop-opacity:1;"
+         offset="0.84581244"
+         id="stop148428" />
+      <stop
+         style="stop-color:#ffd587;stop-opacity:1;"
+         offset="1"
+         id="stop147686" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient44907">
@@ -77,18 +101,6 @@
          style="stop-color:#af8500;stop-opacity:1;"
          offset="1"
          id="stop38996" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient31519">
-      <stop
-         style="stop-color:#ff8300;stop-opacity:1;"
-         offset="0"
-         id="stop31515" />
-      <stop
-         style="stop-color:#ffd700;stop-opacity:1;"
-         offset="1"
-         id="stop31517" />
     </linearGradient>
     <linearGradient
        id="linearGradient31497"
@@ -556,16 +568,6 @@
        y2="80.697914" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient31519"
-       id="linearGradient50446"
-       gradientUnits="userSpaceOnUse"
-       x1="37.041668"
-       y1="42.333332"
-       x2="37.041668"
-       y2="67.46875"
-       spreadMethod="reflect" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient38998"
        id="linearGradient50448"
        gradientUnits="userSpaceOnUse"
@@ -685,6 +687,15 @@
          stdDeviation="0.68792979"
          id="feGaussianBlur65590" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient147688"
+       id="linearGradient147692"
+       x1="26.992723"
+       y1="90.009041"
+       x2="26.992723"
+       y2="42.806175"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Calque 1"
@@ -703,7 +714,7 @@
        inkscape:label="banner">
       <path
          id="path50414"
-         style="display:inline;fill:url(#linearGradient50446);fill-opacity:1;stroke:none;stroke-width:0.661988;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;fill:url(#linearGradient147692);fill-opacity:1;stroke:none;stroke-width:0.661988;stroke-dasharray:none;stroke-opacity:1"
          d="M 58.229314,84.666667 H 26.458333 V 58.208333 h 15.875 V 63.5 H 31.75 V 79.375 H 58.208333 V 42.333334 L 31.75,42.333333 H 10.583333 v 47.625 H 15.875 V 47.625 h 37.041667 v 26.458333 h -15.875 V 68.791667 H 47.625 v -15.875 l -26.458333,-10e-7 v 37.041667 c 16.57339,-7e-6 9.439539,-10e-7 37.062647,0 z m -47.645984,0 H -26.458337 V 58.208333 h 15.875 V 63.5 H -21.16667 V 79.375 H 5.291663 V 42.333334 l -26.458333,-10e-7 h -21.166667 v 47.625 h 5.291667 V 47.625 H -3.0000001e-6 V 74.083333 H -15.875003 V 68.791667 H -5.29167 v -15.875 l -26.458333,-10e-7 v 37.041667 c 16.57339,-7e-6 14.710225,-10e-7 42.333333,0 z m -52.91666,0 H -79.374997 V 58.208333 h 15.875 V 63.5 H -74.08333 v 15.875 h 26.458333 V 42.333334 l -26.458333,-10e-7 h -21.166667 v 47.625 h 5.291667 V 47.625 h 37.041667 v 26.458333 h -15.875 v -5.291666 h 10.583333 v -15.875 l -26.458333,-10e-7 v 37.041667 c 16.57339,-7e-6 14.710225,-10e-7 42.333333,0 z m -52.91667,0 h -37.04167 V 58.208333 h 15.875 V 63.5 H -127 v 15.875 h 26.45833 V 42.333334 L -127,42.333333 h -21.16667 v 47.625 h 5.29167 V 47.625 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,10e-7 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 H -158.75 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91666,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 H -285.75 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 H -317.5 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91666,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 H -476.25 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 L -508,52.916667 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208334 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333335 l -26.45833,-10e-7 h -21.16667 v 47.625 h 5.29167 V 47.625001 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-1e-6 v 37.041667 c 16.57339,-7e-6 14.71022,-10e-7 42.33333,0 z m -52.91667,10e-7 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91666,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91666,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z m -52.91667,0 h -37.04167 V 58.208335 h 15.875 v 5.291667 h -10.58333 v 15.875 h 26.45833 V 42.333336 l -26.45833,-1e-6 h -21.16667 v 47.625 h 5.29167 V 47.625002 h 37.04167 v 26.458333 h -15.875 v -5.291666 h 10.58333 v -15.875 l -26.45833,-10e-7 v 37.041667 c 16.57339,-7e-6 14.71022,-1e-6 42.33333,0 z"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:label="front"
