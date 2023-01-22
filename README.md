@@ -7,19 +7,19 @@ I am a French Software Engineer working as a fullstack developer at [Dataiku](ht
 
 ## Contact
 
-<a href="https://www.root-me.org/Iroh">
+<a href="https://root-me.iroh.fr">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-root-me.svg" width="170px">
 </a>
 
-<a href="https://github.com/thomasperrot">
+<a href="https://github.iroh.fr">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="10px">
 </a>
 
-<a href="https://www.linkedin.com/in/thomas-perrot-ba468996/">
+<a href="https://cv.iroh.fr">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/button-linkedin.svg" width="170px">
 </a>
 
-<a href="https://github.com/thomasperrot">
+<a href="https://github.iroh.fr">
 <img src="https://raw.githubusercontent.com/thomasperrot/thomasperrot/main/assets/transparent.svg" width="10px">
 </a>
 
